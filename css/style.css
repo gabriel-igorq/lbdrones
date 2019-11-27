@@ -69,15 +69,18 @@ body {
     width: 100%;
     z-index: 10;
     background-color: #333; 
-    
   }
   
   .navbar a {
+<<<<<<< HEAD
     width: 10%;
+=======
+    width: 5%;
+>>>>>>> dcebaae14d606dbfbe864b619e1caa370935726e
     font-size: 16px;
     color: white;
-    text-align: center;
-    padding: 5px 5px;
+    text-align: left;
+    padding: 5px 0px;
     text-decoration: none;
     transition: all 400ms linear 0s;
   }
@@ -98,7 +101,6 @@ body {
   justify-items: end;
   
 }
-
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
